@@ -1,0 +1,18 @@
+{
+  "name": "Citrus Burst",
+  "description": "A vibrant citrus theme with lemon and lime accents",
+  "background": "#FFFACD",
+  "wallpaper": "wallpapers/citrus126.jpg",
+  "dockBackground": "#FFFFE0",
+  "dockTextColor": "#8B0000",
+  "gridBackground": "#FFFF00",
+  "gridTextColor": "#000000",
+  "gridHighlightColor": "#FF8C00",
+  "pillBackground": "#FFA500",
+  "pillTextColor": "#000000",
+  "clockColor": "#FFFFE0",
+  "accentColor": "#FF4500",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

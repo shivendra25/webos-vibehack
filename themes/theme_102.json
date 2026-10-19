@@ -1,0 +1,18 @@
+{
+  "name": "Forest Whisper",
+  "description": "A serene forest theme with rich greens and earthy browns",
+  "background": "#1B2E1B",
+  "wallpaper": "wallpapers/forest102.jpg",
+  "dockBackground": "#1B2E1B",
+  "dockTextColor": "#C8E6C9",
+  "gridBackground": "#2E4A2E",
+  "gridTextColor": "#FFFFFF",
+  "gridHighlightColor": "#66BB6A",
+  "pillBackground": "#4CAF50",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#A5D6A7",
+  "accentColor": "#8BC34A",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

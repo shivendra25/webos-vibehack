@@ -1,0 +1,18 @@
+{
+  "name": "Sapphire Ocean",
+  "description": "A deep ocean theme with sapphire blues and pearl accents",
+  "background": "#000080",
+  "wallpaper": "wallpapers/sapphirocean129.jpg",
+  "dockBackground": "#0000CD",
+  "dockTextColor": "#FFFFFF",
+  "gridBackground": "#191970",
+  "gridTextColor": "#FFFFFF",
+  "gridHighlightColor": "#4169E1",
+  "pillBackground": "#6495ED",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#ADD8E6",
+  "accentColor": "#1E90FF",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

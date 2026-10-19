@@ -138,3 +138,49 @@ For when you do land on it. Names vary a little by webOS version:
 The design, layout and app icon come from [tv-vibehack](https://github.com/Gathin23/tv-vibehack)
 by [Gathin](https://github.com/Gathin23). The Outfit font is under the SIL Open Font License
 ([`app/fonts/OFL.txt`](app/fonts/OFL.txt)). MIT licensed, see [`LICENSE`](LICENSE).
+
+## 🎨 Themes
+
+The launcher supports custom themes to change colors, wallpapers, and other visual elements.
+
+### Using Themes
+
+1. Copy a theme file from the `themes/` directory to your TV
+2. Push it to the TV using the webOS CLI:
+   ```bash
+   ares-push -d LG-TV themes/mytheme.json /usr/palm/applications/com.gathin.tvhome/theme.json
+   ```
+3. Restart the launcher (or reboot the TV) to apply the theme
+
+### Theme Format
+
+Each theme is a JSON file with the following properties:
+
+- `name`: Theme name (displayed in settings)
+- `description`: Brief description of the theme
+- `background`: Background color (hex format)
+- `wallpaper`: Path to wallpaper image (relative to TV storage)
+- `dockBackground`: Background color of the dock
+- `dockTextColor`: Text color in the dock
+- `gridBackground`: Background color of the app grid
+- `gridTextColor`: Text color in the app grid
+- `gridHighlightColor`: Highlight color for focused app in grid
+- `pillBackground`: Background color of the top pills (Inputs, Wi-Fi, Settings)
+- `pillTextColor`: Text color in the top pills
+- `clockColor`: Color of the clock in the top-left
+- `accentColor`: Accent color used for highlights and animations
+- `fontSize`: Base font size (e.g., "16px")
+- `rowHeight`: Height of each row in the app grid (e.g., "120px")
+- `columnCount`: Number of columns in the app grid (2-6)
+
+### Pre-made Themes
+
+The `themes/` directory includes 100+ pre-made themes with various color schemes. Feel free to use them as-is or modify them to create your own custom themes.
+
+### Creating Your Own Theme
+
+1. Copy an existing theme file: `cp themes/theme_1.json themes/mytheme.json`
+2. Edit the JSON file to change colors and properties
+3. Push to your TV using the method above
+4. Enjoy your custom look!
+

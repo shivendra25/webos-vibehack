@@ -99,7 +99,7 @@ if ! command -v ares-setup-device &> /dev/null; then
     if npm install -g @webos-tools/cli; then
         success "webOS CLI tools installed"
     else
-        error "Failed to install webOS CLI tools"
+        error "Failed to install webOS-tools CLI"
         exit 1
     fi
 else
@@ -228,6 +228,25 @@ if ./install.sh; then
 else
     error "Failed to install launcher"
     exit 1
+fi
+info ""
+
+# Step 5.5: Offer to install themes (optional)
+info "Step 5.5: Installing themes (optional)"
+info "The themes directory contains 100+ pre-made themes for the launcher."
+info "You can install them now or later manually."
+read -p "Would you like to install all themes to your TV now? This may take a few minutes. (y/n): " INSTALL_THEMES
+if [[ "$INSTALL_THEMES" =~ ^[Yy]$ ]]; then
+    info "Installing themes to TV..."
+    for theme_file in themes/*.json; do
+        theme_name=$(basename "$theme_file")
+        info "Installing $theme_name..."
+        ares-push -d LG-TV "$theme_file" "/usr/palm/applications/com.gathin.tvhome/themes/$theme_name" 2>/dev/null || warning "Failed to install $theme_name (continuing - this is expected if the directory doesn't exist yet)"
+    done
+    success "Themes installation completed (check for any warnings above)"
+else
+    info "Skipping theme installation. You can install themes later with:"
+    info "  for theme in themes/*.json; do ares-push -d LG-TV \"\$theme\" \"/usr/palm/applications/com.gathin.tvhome/themes/\\\$(basename \\\"\$theme\\\")\"; done"
 fi
 info ""
 

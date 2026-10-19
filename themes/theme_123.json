@@ -1,0 +1,18 @@
+{
+  "name": "Turquoise Tide",
+  "description": "A refreshing turquoise theme with ocean wave accents",
+  "background": "#00CED1",
+  "wallpaper": "wallpapers/turquoise123.jpg",
+  "dockBackground": "#00BFFF",
+  "dockTextColor": "#FFFFFF",
+  "gridBackground": "#1E90FF",
+  "gridTextColor": "#FFFFFF",
+  "gridHighlightColor": "#00FFFF",
+  "pillBackground": "#00BFFF",
+  "pillTextColor": "#000000",
+  "clockColor": "#87CEEB",
+  "accentColor": "#00BFFF",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

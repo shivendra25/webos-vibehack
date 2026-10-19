@@ -1,0 +1,18 @@
+{
+  "name": "Sky Blue",
+  "description": "A bright sky blue theme with white clouds and sunshine accents",
+  "background": "#87CEEB",
+  "wallpaper": "wallpapers/sky113.jpg",
+  "dockBackground": "#ADD8E6",
+  "dockTextColor": "#000080",
+  "gridBackground": "#B0E0E6",
+  "gridTextColor": "#00008B",
+  "gridHighlightColor": "#00BFFF",
+  "pillBackground": "#1E90FF",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#ADD8E6",
+  "accentColor": "#00CED1",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Cherry Blossom",
+  "description": "A delicate pink theme inspired by spring cherry blossoms",
+  "background": "#FFF0F5",
+  "wallpaper": "wallpapers/cherry109.jpg",
+  "dockBackground": "#FFE4E1",
+  "dockTextColor": "#C71585",
+  "gridBackground": "#FFB6C1",
+  "gridTextColor": "#8B0000",
+  "gridHighlightColor": "#FF69B4",
+  "pillBackground": "#FF1493",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#FFB6C1",
+  "accentColor": "#DB7093",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

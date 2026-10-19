@@ -1,0 +1,18 @@
+{
+  "name": "Theme 86",
+  "description": "A colorful theme for the webOS vibehack launcher",
+  "background": "#323232",
+  "wallpaper": "wallpapers/theme86.jpg",
+  "dockBackground": "#323232",
+  "dockTextColor": "#323232",
+  "gridBackground": "#323232",
+  "gridTextColor": "#323232",
+  "gridHighlightColor": "#323232",
+  "pillBackground": "#323232",
+  "pillTextColor": "#323232",
+  "clockColor": "#323232",
+  "accentColor": "#323232",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

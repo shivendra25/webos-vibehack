@@ -1,0 +1,18 @@
+{
+  "name": "Lemon Zest",
+  "description": "A bright, citrusy theme with vibrant yellows and greens",
+  "background": "#FFF9C4",
+  "wallpaper": "wallpapers/lemon110.jpg",
+  "dockBackground": "#FFF59D",
+  "dockTextColor": "#F57F17",
+  "gridBackground": "#FFF176",
+  "gridTextColor": "#BF360C",
+  "gridHighlightColor": "#FFD54F",
+  "pillBackground": "#FBC02D",
+  "pillTextColor": "#000000",
+  "clockColor": "#FFF176",
+  "accentColor": "#FFEB3B",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Lavender Dream",
+  "description": "A soft purple theme with lavender and gray tones",
+  "background": "#F3E5F5",
+  "wallpaper": "wallpapers/lavender112.jpg",
+  "dockBackground": "#E1BEE7",
+  "dockTextColor": "#6A1B9A",
+  "gridBackground": "#CE93D8",
+  "gridTextColor": "#4A148C",
+  "gridHighlightColor": "#BA68C8",
+  "pillBackground": "#9C27B0",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#E1BEE7",
+  "accentColor": "#E91E63",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

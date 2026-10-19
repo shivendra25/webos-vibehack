@@ -1,0 +1,18 @@
+{
+  "name": "Midnight Garden",
+  "description": "A dark garden theme with deep greens and subtle floral accents",
+  "background": "#060B06",
+  "wallpaper": "wallpapers/garden108.jpg",
+  "dockBackground": "#060B06",
+  "dockTextColor": "#81C784",
+  "gridBackground": "#0D1B0D",
+  "gridTextColor": "#C8E6C9",
+  "gridHighlightColor": "#A5D6A7",
+  "pillBackground": "#2E7D32",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#C8E6C9",
+  "accentColor": "#4CAF50",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

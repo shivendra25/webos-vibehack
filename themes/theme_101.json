@@ -1,0 +1,18 @@
+{
+  "name": "Ocean Deep",
+  "description": "A calming ocean-inspired theme with deep blues and turquoise accents",
+  "background": "#0A1A2F",
+  "wallpaper": "wallpapers/ocean101.jpg",
+  "dockBackground": "#0A1A2F",
+  "dockTextColor": "#E0F7FA",
+  "gridBackground": "#153B5A",
+  "gridTextColor": "#FFFFFF",
+  "gridHighlightColor": "#4FC3F7",
+  "pillBackground": "#0277BD",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#81D4FA",
+  "accentColor": "#00BCD4",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

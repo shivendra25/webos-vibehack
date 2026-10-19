@@ -1,0 +1,18 @@
+{
+  "name": "Violet Velvet",
+  "description": "A luxurious violet theme with soft velvet texture",
+  "background": "#4A004A",
+  "wallpaper": "wallpapers/violet121.jpg",
+  "dockBackground": "#6A006A",
+  "dockTextColor": "#E6E6FA",
+  "gridBackground": "#5A005A",
+  "gridTextColor": "#FFFFFF",
+  "gridHighlightColor": "#DDA0DD",
+  "pillBackground": "#8A2BE2",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#DDA0DD",
+  "accentColor": "#9400D3",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

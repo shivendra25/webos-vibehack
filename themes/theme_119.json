@@ -1,0 +1,18 @@
+{
+  "name": "Pearl White",
+  "description": "An elegant pearl white theme with soft iridescent tones",
+  "background": "#FDFDFD",
+  "wallpaper": "wallpapers/pearl119.jpg",
+  "dockBackground": "#F5F5F5",
+  "dockTextColor": "#424242",
+  "gridBackground": "#EEEEEE",
+  "gridTextColor": "#212121",
+  "gridHighlightColor": "#E0E0E0",
+  "pillBackground": "#B0BEC5",
+  "pillTextColor": "#000000",
+  "clockColor": "#FFFFFF",
+  "accentColor": "#CFD8DC",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

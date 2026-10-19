@@ -1,0 +1,18 @@
+{
+  "name": "Emerald City",
+  "description": "A rich emerald green theme with jewel tones",
+  "background": "#006400",
+  "wallpaper": "wallpapers/emerald115.jpg",
+  "dockBackground": "#008000",
+  "dockTextColor": "#98FB98",
+  "gridBackground": "#008B00",
+  "gridTextColor": "#FFFFFF",
+  "gridHighlightColor": "#32CD32",
+  "pillBackground": "#00FF00",
+  "pillTextColor": "#000000",
+  "clockColor": "#90EE90",
+  "accentColor": "#ADFF2F",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

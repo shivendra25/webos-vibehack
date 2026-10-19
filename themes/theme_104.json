@@ -1,0 +1,18 @@
+{
+  "name": "Royal Purple",
+  "description": "A luxurious theme with deep purples and gold accents",
+  "background": "#1A001E",
+  "wallpaper": "wallpapers/purple104.jpg",
+  "dockBackground": "#1A001E",
+  "dockTextColor": "#E1BEE7",
+  "gridBackground": "#2E003A",
+  "gridTextColor": "#FFFFFF",
+  "gridHighlightColor": "#CE93D8",
+  "pillBackground": "#9C27B0",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#D1C4E9",
+  "accentColor": "#E91E63",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

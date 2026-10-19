@@ -1,0 +1,18 @@
+{
+  "name": "Rose Gold",
+  "description": "An elegant rose gold theme with soft pink and metallic accents",
+  "background": "#B76E79",
+  "wallpaper": "wallpapers/rosegold127.jpg",
+  "dockBackground": "#CD853F",
+  "dockTextColor": "#FFFFFF",
+  "gridBackground": "#D2B48C",
+  "gridTextColor": "#8B0000",
+  "gridHighlightColor": "#F4A460",
+  "pillBackground": "#DAA520",
+  "pillTextColor": "#000000",
+  "clockColor": "#F5DEB3",
+  "accentColor": "#B8860B",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

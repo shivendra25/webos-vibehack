@@ -1,0 +1,18 @@
+{
+  "name": "Neon Cyber",
+  "description": "A futuristic neon theme with cyberpunk colors",
+  "background": "#0A0A0A",
+  "wallpaper": "wallpapers/neon105.jpg",
+  "dockBackground": "#0A0A0A",
+  "dockTextColor": "#00F5FF",
+  "gridBackground": "#1A1A1A",
+  "gridTextColor": "#FFFFFF",
+  "gridHighlightColor": "#FF00FF",
+  "pillBackground": "#FF00FF",
+  "pillTextColor": "#000000",
+  "clockColor": "#00FFFF",
+  "accentColor": "#FF0080",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

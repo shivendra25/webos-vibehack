@@ -1,0 +1,18 @@
+{
+  "name": "Arctic Ice",
+  "description": "A cool, icy theme with blues and whites",
+  "background": "#E3F2FD",
+  "wallpaper": "wallpapers/arctic106.jpg",
+  "dockBackground": "#BBDEFB",
+  "dockTextColor": "#0D47A1",
+  "gridBackground": "#90CAF9",
+  "gridTextColor": "#0D47A1",
+  "gridHighlightColor": "#64B5F6",
+  "pillBackground": "#2196F3",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#90CAF9",
+  "accentColor": "#03A9F4",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

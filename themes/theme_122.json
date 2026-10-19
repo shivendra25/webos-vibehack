@@ -1,0 +1,18 @@
+{
+  "name": "Coral Reef",
+  "description": "A vibrant ocean theme with coral pinks and ocean blues",
+  "background": "#FF7F50",
+  "wallpaper": "wallpapers/coral122.jpg",
+  "dockBackground": "#FF6347",
+  "dockTextColor": "#FFFFFF",
+  "gridBackground": "#FF8C00",
+  "gridTextColor": "#000000",
+  "gridHighlightColor": "#FFD700",
+  "pillBackground": "#FF4500",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#FFA500",
+  "accentColor": "#FF69B4",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}

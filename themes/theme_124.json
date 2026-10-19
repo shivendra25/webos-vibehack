@@ -1,0 +1,18 @@
+{
+  "name": "Golden Hour",
+  "description": "A warm sunset theme with golden yellows and soft oranges",
+  "background": "#FFB347",
+  "wallpaper": "wallpapers/golden124.jpg",
+  "dockBackground": "#FFD700",
+  "dockTextColor": "#000000",
+  "gridBackground": "#FFA500",
+  "gridTextColor": "#000000",
+  "gridHighlightColor": "#FF8C00",
+  "pillBackground": "#FF4500",
+  "pillTextColor": "#FFFFFF",
+  "clockColor": "#FFD700",
+  "accentColor": "#FFA500",
+  "fontSize": "16px",
+  "rowHeight": "120px",
+  "columnCount": 4
+}
